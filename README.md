@@ -76,9 +76,14 @@ plt.show()
 ```
 
 ## Output:
-![image](https://github.com/ShakthiSundar-K/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/128116143/49869c14-c6ec-471d-93a9-ee98384881f1)
+![image](https://github.com/UdhayanithiM/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/127933352/0035654d-678e-4cfd-9cea-8e4a7fbedca1)
 
-![image](https://github.com/ShakthiSundar-K/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/128116143/79e887b3-15eb-4a2a-be90-ab129ef1c4b3)
+![image](https://github.com/UdhayanithiM/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/127933352/14a1b5ba-2cc3-4511-9481-0978ac2ae39b)
+![image](https://github.com/UdhayanithiM/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/127933352/cc77766c-2538-45ee-b352-b1400850e987)
+
+![image](https://github.com/UdhayanithiM/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/127933352/67116f0e-559e-4f48-a381-1ef1831ad86c)
+![image](https://github.com/UdhayanithiM/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/127933352/46f393ca-3a93-4bf4-9d9c-96de10819327)
+![image](https://github.com/UdhayanithiM/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/127933352/9b0445fb-b9dd-48fb-b46e-baa8695e3676)
 
 
 ## Result:
